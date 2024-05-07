@@ -1,0 +1,22 @@
+.heading_one
+{
+    width: 100%;
+    text-align: left;
+}
+
+.footer
+{
+    position: sticky;
+}
+
+.instructions
+{
+    float: right;
+}
+
+canvas
+{
+    border-radius: 10px;
+    margin: 20px;
+    border: 10px solid black;
+}
